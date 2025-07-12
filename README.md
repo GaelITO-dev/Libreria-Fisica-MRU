@@ -85,8 +85,10 @@ La clase representa un cuerpo que se mueve en una dimensión, con los siguientes
 Esta librería puede utilizarse con fines educativos y personales.  
 Modificaciones y distribuciones están permitidas **siempre que se dé crédito a los autores**.
 
-##Enlace a Youtube (Explicacion de importacion y uso )
+## Enlace a Youtube (Explicacion de importacion y uso )
 
 ## Enlace del JavaDoc (Github Pages)
+
+https://gaelito-dev.github.io/Libreria-Fisica-MRU/
 
 
