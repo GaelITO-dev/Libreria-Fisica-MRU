@@ -17,7 +17,7 @@ Incluye una clase principal (`Movimiento`) que encapsula la lógica del comporta
 
 <img width="682" height="347" alt="image" src="https://github.com/user-attachments/assets/2b400c88-9087-4a79-b891-bb785aed9a2f" />
 
-2.- Esperar que se cree el .jar 
+2.- Esperar a que se cree el .jar 
 
 <img width="671" height="137" alt="image" src="https://github.com/user-attachments/assets/3142a1f6-944d-402c-99a0-2ee5336d8edb" />
 
