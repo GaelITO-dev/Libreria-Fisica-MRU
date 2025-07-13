@@ -9,6 +9,32 @@ Incluye una clase principal (`Movimiento`) que encapsula la lógica del comporta
 
 ---
 
+## Capturas de Pantalla
+
+### Instrucciones para importar el .jar en otro proyecto
+
+1.- Se le da click derecho a el proyecto y se selecciona la opcion "Clean and Build"
+
+<img width="682" height="347" alt="image" src="https://github.com/user-attachments/assets/2b400c88-9087-4a79-b891-bb785aed9a2f" />
+
+2.- Esperar que se cree el .jar 
+
+<img width="671" height="137" alt="image" src="https://github.com/user-attachments/assets/3142a1f6-944d-402c-99a0-2ee5336d8edb" />
+
+3.- Se crea un nuevo proyecto en el que se implementara la libreria, en la carpeta ¨Libraries" se le da click derecho y se selecciona "Add JAR/Folder
+
+<img width="571" height="218" alt="image" src="https://github.com/user-attachments/assets/c64fea95-9002-4ae8-9bb9-38e8fb4c357f" />
+
+4.- Buscamos la carpeta del proyecto de la libreria y seleccionamos el .jar creado anteriormente
+
+<img width="927" height="467" alt="image" src="https://github.com/user-attachments/assets/9ff5ee2f-31fc-4cea-8f73-b05b3adaccba" />
+
+5.- En una clase nueva para poder usar la libreria importada se hace con esta linea
+
+<img width="637" height="255" alt="image" src="https://github.com/user-attachments/assets/0b82c71b-c5cb-4def-ad6e-124a3fc53b55" />
+
+---
+
 ## 🔍 Explicación del código
 
 ### 📦 Paquete
