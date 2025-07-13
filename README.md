@@ -113,6 +113,8 @@ Modificaciones y distribuciones están permitidas **siempre que se dé crédito 
 
 ## Enlace a Youtube (Explicacion de importacion y uso )
 
+https://youtu.be/MST56WMiKPM?si=MH_IN_Snc5svyYwu
+
 ## Enlace del JavaDoc (Github Pages)
 
 https://gaelito-dev.github.io/Libreria-Fisica-MRU/
