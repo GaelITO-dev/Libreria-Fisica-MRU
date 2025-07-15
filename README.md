@@ -94,7 +94,7 @@ La clase representa un cuerpo que se mueve en una dimensión, con los siguientes
 
 ## ✅ Requisitos
 
-- JDK 8 o superior
+- JDK 17
 - IDE como NetBeans, Eclipse o IntelliJ (opcional)
 
 ---
